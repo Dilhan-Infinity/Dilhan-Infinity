@@ -3,7 +3,7 @@
 
 - 🎓 I'm an undergraduate Pursuing a **BSc (Hons) Computing Science in Software Engineering at Kingston University, UK.**
 
-- 🔭 I’m currently working as a **Data Analyst at the Ministry of Education, Sri Lanka**
+- 🔭 I’m currently working as a **Data Analyst Intern at the Ministry of Education, Sri Lanka**
 
 - 💻 Enthusiastic about contributing to **open-source projects and collaborating with the developer community.**
 
