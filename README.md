@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dilhan Chathuranga Thilakarathna</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilhan-infinity" alt="dilhan-infinity" /></a> </p>
 
+- 🎓 I'm an undergraduate Pursuing a **BSc (Hons) Computing Science in Software Engineering at Kingston University, UK.**
+
 - 🔭 I’m currently working as a **Data Analyst at the Ministry of Education, Sri Lanka**
 
 - 💻 Enthusiastic about contributing to **open-source projects and collaborating with the developer community.**
-
-- 🎓 I'm an undergraduate Pursuing a **BSc (Hons) in Computing Science (Software Engineering) at Kingston University, UK.**
 
 - 🌱 Exploring **Web Development and AI technologies to build innovative solutions.**
 
